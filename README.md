@@ -5,7 +5,7 @@ Oriented Programming in C++'.  The application uses the Qt framework to create
 a GUI to allow the user to set up a 'maze' to be solved by a pathfinding
 algorithm. The project files were built with QtCreator.
 
-![Screenshot of the application](https://github.com/Hazza4569/PathFinder/tree/master/docs/screenshot.jpg?raw=true)
+![Screenshot of the application](https://github.com/Hazza4569/PathFinder/blob/master/docs/screenshot.jpg?raw=true)
 
 One of the key concepts was the use of polymorphic design to include two
 different geometries of grid, square and hexagonal, in which the maze could be
